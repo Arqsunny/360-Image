@@ -24,12 +24,19 @@ var APP_DATA = {
       ],
       "faceSize": 1728,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.8856891879389757,
+        "pitch": 0.663372962366525,
+        "fov": 1.4769169980958226
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.0608238655697235,
+          "pitch": 0.7161906157995581,
+          "title": "360",
+          "text": "Text"
+        }
+      ]
     }
   ],
   "name": "360-Image",
