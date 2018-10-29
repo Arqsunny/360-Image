@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-3",
-      "name": "3",
+      "id": "0-meeting-room",
+      "name": "Meeting Room",
       "levels": [
         {
           "tileSize": 256,
@@ -32,8 +32,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-4",
-      "name": "4",
+      "id": "1-dinner",
+      "name": "Dinner",
       "levels": [
         {
           "tileSize": 256,
@@ -63,8 +63,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-5",
-      "name": "5",
+      "id": "2-happy-hour",
+      "name": "Happy Hour",
       "levels": [
         {
           "tileSize": 256,
