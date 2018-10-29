@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-img_20180730_115640",
-      "name": "IMG_20180730_115640",
+      "id": "0-3",
+      "name": "3",
       "levels": [
         {
           "tileSize": 256,
@@ -24,22 +24,77 @@ var APP_DATA = {
       ],
       "faceSize": 1728,
       "initialViewParameters": {
-        "yaw": -0.8856891879389757,
-        "pitch": 0.663372962366525,
-        "fov": 1.4769169980958226
+        "yaw": 1.7025107797454968,
+        "pitch": 0.38318946642048957,
+        "fov": 1.5338614860544868
       },
       "linkHotspots": [],
-      "infoHotspots": [
+      "infoHotspots": []
+    },
+    {
+      "id": "1-4",
+      "name": "4",
+      "levels": [
         {
-          "yaw": -2.0608238655697235,
-          "pitch": 0.7161906157995581,
-          "title": "360",
-          "text": "Text"
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
-      ]
+      ],
+      "faceSize": 1728,
+      "initialViewParameters": {
+        "yaw": -1.7213873130661934,
+        "pitch": 0.6841413534946881,
+        "fov": 1.5338614860544868
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-5",
+      "name": "5",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1728,
+      "initialViewParameters": {
+        "yaw": -2.6459657367475344,
+        "pitch": 0.28493377094187977,
+        "fov": 1.5338614860544868
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
     }
   ],
-  "name": "360-Image",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
